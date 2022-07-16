@@ -1,2 +1,2 @@
 # EagerMinds
-A medieval action-RPG developed with Unreal Engine 5
+A medieval fantasy action-RPG developed with Unreal Engine 5
